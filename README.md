@@ -22,6 +22,7 @@ At the end of this lesson, participants should be able to:
 ### Extra Resources
 * [RStudio's R Markdown website](https://rmarkdown.rstudio.com)
 * [RStudio's R Markdown cheatsheet](http://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+* [RStudio's R Markdown reference guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
 * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 
 ### Lesson Quick Start
