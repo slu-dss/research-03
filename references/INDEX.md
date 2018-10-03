@@ -2,16 +2,20 @@
 
 ## Key Topics
 
-*
+* Project creation
+* Notebook creation
+* Writing in markdown
 
 ## Key Tools
 
 ### Packages
 
-*
+* `dplyr`
+* `here`
+* `readr`
+* `rmarkdown`
 
 ### Tools
 
-* GitHub
 * `R`
 * RStudio
