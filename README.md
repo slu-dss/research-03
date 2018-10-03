@@ -20,6 +20,7 @@ At the end of this lesson, participants should be able to:
 * The [`references/`](/references) directory also contains other notes on changes to the repository, key topics, terms, data sources, and software.
 
 ### Extra Resources
+* [*Good enough practices in scientific computing*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
 * [RStudio's R Markdown website](https://rmarkdown.rstudio.com)
 * [RStudio's R Markdown cheatsheet](http://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
 * [RStudio's R Markdown reference guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
